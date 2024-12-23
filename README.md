@@ -1,0 +1,1 @@
+A little Factorio mod that swaps the sound of getting into the tank and driving it around with the sound of the car from the Flintstones.  Inspired by chatting with my friends about the absurdities of putting an exoskeleton on a tank.

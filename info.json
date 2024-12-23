@@ -1,0 +1,11 @@
+{
+    "name": "flintstones_tank_sound",
+    "version": "1.0.0",
+    "title": "Flintstones Tank Sound",
+    "description": "Replaces the default tank start/run/stop sounds with the sound of the flintstones car.",
+    "author": "Ardent_",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base"
+    ]
+}
